@@ -1,0 +1,12 @@
+
+
+Libreria de trabajo OpenCV
+
+1.- pip install opencv-python
+2.- Validar en rpl
+    import cv2
+
+
+
+
+
