@@ -1,0 +1,10 @@
+
+
+pip install folium
+
+in repl
+1.- import folium
+2.- map = folium.Map(location=[30.99, -110.28])
+    2.1.- map = folium.Map(location=[30.99, -110.28], zoom_start=6)
+3.- map.save("Name.html")
+
