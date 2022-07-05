@@ -8,3 +8,13 @@ in repl
     2.1.- map = folium.Map(location=[30.99, -110.28], zoom_start=6)
 3.- map.save("Name.html")
 
+to import a CSV file we need to install Pandas
+1.- pip install pandas 
+
+
+Notes:
+To know the name of the columns use a rpl 
+import pandas
+data = pandas.read.csv("filename.ext")
+data.columns
+

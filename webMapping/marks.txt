@@ -1,0 +1,5 @@
+Marker,Number,Name,Location,Status,Elev,Type,TimeFrame,Lat,Lon
+509,1001,Juan,A,Atendida,0,Atendida,10,30.971,-110.261
+510,1002,Pedro,A,Reportada,0,Reportada,10,30.973,-110.26
+
+
