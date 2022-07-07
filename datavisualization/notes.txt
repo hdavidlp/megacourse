@@ -1,0 +1,16 @@
+For this project, you have to install Bokeh adn Jupyter
+
+pip install bokeh
+pip install jupyter notebook
+
+
+To run Jupyter notebook, in a comand prompt excecute
+jupyter notebook
+
+
+To use a Excel files 
+xlsx pip install openpyxl
+xls  pip install xlrd
+
+
+
