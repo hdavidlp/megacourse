@@ -1,7 +1,14 @@
 
 # exclusion de entornos virtuales
 image_and_video/.venv
-webMapping/.venv
+.venv
+
+
+# exclude output directory for exercise
+image_and_video/output_images
+
+
+
 
 
 
