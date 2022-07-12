@@ -1,6 +1,5 @@
 
 # exclusion de entornos virtuales
-image_and_video/.venv
 .venv
 
 
